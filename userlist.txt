@@ -1,0 +1,870 @@
+  - 00C9D3A9-5388-4328-9877-E28AA4979E67: Dohmen, Bernd - Prof. Dr.
+  - 0163C264-0358-425E-AF05-196F2167C3B4: Yan, Kai
+  - 019A0611-C15C-4D22-A832-E65F8F4CAB6E: Rudolf, Heiko - Prof. Dr.
+  - 0253649D-5FA0-4739-B0A1-FF615C26109B: Ruge, Hauke
+  - 025B93EC-D3E4-4DCC-99D3-30682AEC50C4: Sogorski, Phillip
+  - 025C8FEC-317F-4F7B-8D45-E9AB147E0375: Jung, Michael
+  - 02AD9C2C-477D-4BD8-A1D3-1CA772A8E8F5: Lange, Horst - Prof.
+  - 031560ba-4370-1037-8df0-6f1db8bb7718: Renat Skitsan
+  - 0333D1FF-F6CB-4F0C-9E05-9C112C4BBA8B: Hofmann, Steffen
+  - 0440290E-869E-43D9-ABFE-A2A26798D296: Bade, Oliver
+  - 04691CC4-A334-4E53-9B07-46995D9C54D0: Klaß, Michael Edgar
+  - 04A636B7-E366-4C65-A71D-F416C05077AA: Freutel, Adrian
+  - 04BCFD80-2692-4E61-81F6-BB35C6C04D10: Schneider, Axel - Prof. Dr.
+  - 04C49179-EE84-4A7B-A90B-0C0E379BD0FF: Lewin, Sergej
+  - 05510a2a-443b-1037-8dfa-6f1db8bb7718: Florian Hufen
+  - 06420c50-4f2f-1037-9b32-294923303e71: Chenchen Zhao
+  - 088A84DF-27EA-4DCB-BA49-C3AE120650BC: Lamprecht, Silvia
+  - 08D15381-32FC-4CEA-82BC-244D720ADB03: Asmawi, Anja
+  - 09B15CD2-17BB-49C7-94A5-9D76D73AA25F: Pohl, Jürgen - Prof. Dr.
+  - 0B7FE6A8-AC29-44A2-97DB-7894F7FA41CA: Schrader, Tim
+  - 0CA0E40B-3E39-4C18-AB9A-EE7E36FF30B5: Massag, Pascal
+  - 0CA60193-25EE-4B30-A971-B9064BE137F0: Dieckhoff, Anna
+  - 0D511853-EFCB-4568-BB4B-347330D45F6B: Naumann, Sarah
+  - 0D95A08F-B30F-4205-B829-FEDDF9EFC9CC: Rößner, Philipp
+  - 0DAE567F-D070-4C49-BAFF-32D2B5D3EF04: Pertl, Elisabeth
+  - 0DC79A86-17E1-4A26-9869-DEE71E0FD25C: Wairoy, Anisah Khoiriyyah
+  - 0DFC09C4-0684-4EE1-AE8F-AE6C634204FA: Haase, Till-Nikolaus
+  - 0EA8924B-A97F-455E-B2BE-55B1ABA40C09: Spieß, Michaela
+  - 0F68BDD9-E72F-46F5-AB54-E81F2F8358D7: Huhn, Daniel
+  - 0FD5A62D-2C59-4533-B563-FA2C502CA3B3: Dittmer, Christina
+  - 102A841D-4041-4D64-B776-E0CAD7BCE711: Schubert, Melanie
+  - 103D4898-0D38-4649-8415-3C6327D61831: Englich, René
+  - 10E8B940-1762-48D1-BADB-F1123DE0D8D8: Liang, Xiaoxiao
+  - 11103ABA-3656-45B3-BE11-8A7E83042BB3: Scholz, Mathilde
+  - 117C66CE-2E18-43A8-A7DA-F2DE274415B1: Rasym, Andrea
+  - 118978F9-FD2D-48B4-AC54-9107973CB180: Schwarz, Claudia
+  - 11ecc6ae-4371-1037-8df6-6f1db8bb7718: Max Hrechko
+  - 1223EA05-68C2-4548-81E9-40DFC6684100: Lipeck, Matthias
+  - 1240FEB9-A8A3-4337-929D-54177AB12476: Klingbeil, Maren
+  - 12C45714-E365-42EF-8AE6-2C27DCF32E3B: Oswald, Philipp
+  - 12F89E2B-103D-4059-80D0-0C225E281314: Schelle, Michael
+  - 13362849-3F3F-4BBF-9A0C-61676F9E5459: Voß, Wilfried - Dr.
+  - 13810617-9B7A-4E77-AC7D-C4EC0D0E97EA: Pitzer, Tabea
+  - 146E0AB3-4C79-41AB-9F0E-C8B1FB76009E: Eckelt, Gergely
+  - 149589FB-00BF-4447-A481-70C7F12D4106: Dasbach, Margot - Prof. Dr.
+  - 14BF8AF0-B92E-4FD7-9B56-CC60BD343B8E: Trunschke, Olaf
+  - 1527DDE6-741C-4D54-9391-BA0ABFC4CF4C: Kunerl, Christian
+  - 15287F64-DA1B-4915-A0FF-4BF9D602ACF1: Majchrzak, Marcel
+  - 16A2BFF6-02F9-4B39-AB74-87170C4DD9D3: Bernau, Robin
+  - 16F67F99-1B1E-43D8-A52A-78EB00FA9E27: Mueller, Martin
+  - 17043B9A-5C4D-4168-AA96-F4E09EABC200: Lüth, Marko
+  - 1715C9EB-BD8F-4051-B245-80B6502E9AB9: Schulz, Reiner
+  - 171C096D-55FA-4450-B213-059EBBC07BFE: Al-Masri, Josef Mahmud
+  - 1798ADBE-B77F-4E66-BCC3-B5CE5D4D7D48: Berger, Gerhard
+  - 180fde72-4f2e-1037-9b2d-294923303e71: Tommy Vogel
+  - 183C092E-9F60-4255-A6EE-7C2B4AC385D1: Jurk, Reinhard Johannes
+  - 1A42C671-DF49-468E-899C-C7132A4A363B: Reichelt, Miriam
+  - 1A49B531-2AD8-4A86-92B3-A50F2756236D: Linkohr, Martin
+  - 1AFCFC9A-E60F-4C71-A47B-AE117C15830D: Wagner, Doreen
+  - 1B74C359-708C-40E7-9D0E-42C66BC30CCF: Schilling, Sylvia
+  - 1B84D6EC-B031-4905-91E6-D39384D3908B: Krüger, Horst
+  - 1C8C32B3-A049-43D9-A3BA-11899B9B6E1B: Heuke, Marcus
+  - 1CBBFF50-351C-4322-9457-A544D091C5E4: Engel, Jürgen
+  - 1CEFB8D8-71C8-4129-A33C-90D5DBF42189: Dullau, Sandra
+  - 1DF56B69-6248-464F-8A2A-25DE8D1966D2: Sun, Chengxiang
+  - 1E33789F-1CA8-435E-AB48-DA4E5422824E: Schlegel, Willi
+  - 1EE60161-F5B7-4352-955C-FD3E8BB4078C: Reinhardt, Eugen
+  - 1FABC810-5149-4CB2-A330-1F201AE43D37: Otto, Friederike
+  - 1FDCE508-98B4-43EF-B190-38BB79EF50A3: Bredenkamp, Jens
+  - 20192B04-76A8-40F4-A7D1-59C728917B8F: Reinke, Max
+  - 2044CAD1-CF4B-4FC3-9021-D03FC07BEF59: Leiman, Artur
+  - 205019F8-ED60-4D63-A1BB-7B5C9518CEA5: Jost, Alex
+  - 2058EBE2-C408-41C8-A674-40BFF232CB0F: Wolff, Stefan
+  - 206C9F27-5B44-4800-8AF9-2B7EF40E530F: Pätzold, Matthias
+  - 20A5F130-4D5E-4F7D-A815-C1FC9E2042FE: Richter, Daniel
+  - 214C7FBC-73A6-4F9A-8C1F-8C8DBFE5CDB7: Leisner, Bettina Astrid
+  - 21623B78-DACF-47A8-943A-D72601CE3203: Vohwinkel, Rudolf Axel
+  - 217DF359-68AA-44C9-8C46-7275D52F5D6E: Wendland, Sven
+  - 21FB2301-DDD4-4A9C-85A3-B065DED34E23: Zimmermann, Stefan
+  - 228e2af8-307f-1036-8a1a-3bacc49a4817: Yuliia Polna
+  - 22A1E539-6446-47E7-A1B5-4C8EFBA5DA5D: Hagemeister, Susanne
+  - 22B2C760-8BE6-4A51-95EE-D6CDBA441789: Heyne, Christian
+  - 22F86BD2-486C-41AE-BE26-1906E2FCC845: Eckstein, Stephanie
+  - 2392E17D-1634-4DB0-B99B-27BACEFDE071: Vakulich, Pavel
+  - 23E3A1A0-AF8C-4E25-8190-960EBF74D2F4: König, Nicola Lea
+  - 247DB410-55B3-4085-B1CB-6050C5B97179: Ehrig, Raimund Hilmar
+  - 25330570-5EBF-4EA9-AB5E-C9A396BF6746: Schwertfeger, Achim
+  - 25BA37BD-1E21-436E-A65E-F7C790135561: Kleindienst, Florian
+  - 263b932e-3080-1036-8a1e-3bacc49a4817: Alex Nick
+  - 265A7183-7441-4693-AC46-915DA3D5F4B4: Heymann, Dieke
+  - 26A9420B-FB51-4F72-B1D7-D885961CC69D: Kunze, Melanie
+  - 26F03047-3EE4-41A3-8D14-70E5388E95AE: Klotzbücher, Ines Hanna Felizitas
+  - 2714C939-8A08-4F83-953C-7D61645A704D: Schuhmann, Mandy
+  - 27C9C465-9805-47DF-B99F-801E51BAE337: Löffler, Christian
+  - 280908A6-E976-49F5-AC6A-956A9CC691B9: Heinermann, Blandina
+  - 28255D66-06A3-4B48-ACCA-6FA6DCEF77BE: Herbst, Stefan
+  - 287AB96E-993F-4AE3-8A8A-E90330331344: Bäcker, Katarina
+  - 2905D692-95C1-4260-AFB6-65558A72479F: Galda, Jenny
+  - 298555B6-7B26-469D-8F7B-6281E519017A: Kerber, Patrick
+  - 298B9C4B-38DF-4C53-B63C-054EDC9B666C: Wuttke, Christopher
+  - 29996369-1E9E-447C-B794-7571E98969A0: Steinbrück, Carmen
+  - 2A511834-640C-4259-BB81-F99F6C20528B: Baum, Andreas
+  - 2A5AB998-99B6-4693-A940-693105059EE8: Bulut, Sibel
+  - 2AB5419F-F87A-459C-8636-C34EDF20FD54: Ozturk, Caglar
+  - 2B3AD6BD-8273-45F6-9D15-2579777CDC54: Kashtanova, Elena - Prof. Dr.
+  - 2C3E1BB9-E0E2-4F22-BA20-A88DA2A56A9D: Merfert, Igor W. - Prof. Dr.
+  - 2C5D4B2F-CAEE-4CB9-8A87-D19E8AA3AC56: Ziegler, Juliane
+  - 2C9D7FD9-CA14-4DE6-8091-8FAB94905220: Chen, Lu
+  - 2CCDA6B5-FD89-4DFB-A10D-F6BA18F1C2F1: Matuszak, Mia
+  - 2D1970E4-97F2-4BDA-AD9E-A83D1D997FB7: Schlecht-Pesé, André
+  - 2e550e12-443b-1037-8dfb-6f1db8bb7718: Dongbi Mu
+  - 2e83a898-3169-1036-8a22-3bacc49a4817: Jian Song
+  - 304502F9-B36D-4A1F-A0B5-7DB53A7EA2FA: Weigend, Rainer
+  - 3052933E-E55B-4533-8C13-AEBCAEAB6A7F: Schmidt, Markus
+  - 30F83587-1BAF-4043-A75B-43E76AF8299C: Bachmann, Elke
+  - 313B8F94-690B-4148-9BA5-A3EC6F14C846: Jager, André
+  - 32D253AE-B6C3-4232-890E-D3317782973C: Fricke, Paul Friedrich
+  - 32E2E2E1-3952-4B49-B82C-3FD58A5D9B44: Willgeroth, Carlo
+  - 32fc1f14-3168-1036-8a1f-3bacc49a4817: Olena Berezan
+  - 3305C6C7-4E4E-4AC4-9288-AF624D629C2A: Zhou, Yun
+  - 3352da58-4f2f-1037-9b33-294923303e71: Xue Zou
+  - 33E243CF-4214-4B47-B5F8-197AAE69CA3F: Zinke, Renate
+  - 347B4102-8A64-4D1C-B32E-9304BEC0A720: von Olfers, Nikolaus
+  - 35C79F72-B01E-4070-A7FD-59E4197C6968: Gross, Eva-Maria
+  - 360D2E8C-59CC-4DC0-A155-7B8FE57AF94E: Clauß, Kristin
+  - 36CD6E2D-AF53-42CA-8290-86149A472812: Aoun, Norhan
+  - 3730BDAF-97EC-4669-A653-5254BE9414D6: Müller, Marcel
+  - 37D511C3-E973-481F-A7E5-08EF99A1AB74: Weinert, Wolfgang - Prof. Dr.
+  - 38060985-2578-4F25-835C-109ED9585BFC: Schwarz, Jürgen - Prof. Dr.
+  - 381C403D-EC73-470F-9DA2-22C30ABC343D: Hertel, Vanessa
+  - 38846706-bf6c-1036-885a-712b78322d35: Alexander Teubert (alexander.teubert@student.hs-anhalt.de)
+  - 3894FA3E-6543-43BD-997F-B748D6853D2A: Rosahl, Sabine - Prof. Dr.
+  - 38D51CD5-8B05-4267-A47C-367FCCCC84D3: Genzel, Bärbel
+  - 39B7602A-9873-4394-A584-6EE4081B182A: Land, Christopher
+  - 3A18C632-8626-48A7-B32D-43EA4C2E3375: Fischer, Christin
+  - 3BE6D9E8-FF7D-4FC5-A846-691FF8779120: Scholz, Florian
+  - 3C15D3D5-51F2-46AD-B026-B02520AC2DD8: Hinzdorf, Eike
+  - 3c81f12e-4370-1037-8df1-6f1db8bb7718: Artur Katraha
+  - 3CEA1E1E-70D0-45B4-904B-EB9720A6A154: Hils, Marius David
+  - 3D5C2043-CC4A-4C41-8139-437E35DCD085: Theil, Francine
+  - 3D7BB26D-0F48-4F42-BF08-38E203B21C23: Hucke, Torben
+  - 3DDDC7EA-B6FF-45B0-8766-82AC9A9E662B: Schumann, Sandra
+  - 3E72B880-1C52-46BC-9D9C-EB2D99DCD17B: Pelzl, Ralf
+  - 3E8DBC9A-8D2B-4E9E-BB5D-8509F01E3D3E: Leppin, Robert
+  - 3EB8DF4D-753C-474E-9C08-018F6E13670A: Fonataba, Angel Berlian
+  - 4000BD52-66C4-4D7C-BE43-B6206F63BEFA: Flemming, Erik
+  - 40736161-C163-4F10-AC54-35086ED126A9: Sternke, Alexander
+  - 40B2EEB0-C9B5-40B5-9213-1518E72DA0F0: Gremplinski, Stefan
+  - 4140C989-6E29-4E24-8370-07040518953E: Kircheis, Petra
+  - 42351D50-76BC-43F4-B956-4BCB2E8DB64B: Härtwig, Peter David
+  - 4279676c-4f30-1037-9b38-294923303e71: Xiaohuan Li
+  - 42ae3e9e-5e56-1037-9b44-294923303e71: Patrick Kämpfert
+  - 42BA3723-F43A-40E5-87C7-7CACC973BF5B: Haberland, Anne-Kathrin
+  - 42D1F803-98A6-4A9A-9D3D-2472D2A81500: Bergmann, Christian
+  - 4305734C-1FDE-43AE-ABF2-CD6E3D2B69F2: Brockmann, Heiko
+  - 43625369-E6CD-407A-A9C5-A66FA00D5734: Kräcker, Stefan
+  - 43920FBC-DF3B-4CBA-9690-5094FC1FDDB1: Behrens, Stefan
+  - 43F86179-B453-43B3-9776-1362A1003158: Guba, Tom
+  - 44982FEF-7B69-4941-8167-A4015AB53842: Cao, Yao
+  - 44DBCCF5-E561-4976-AAD2-4840AF9F008C: George, Bastian
+  - 475CF7DF-378E-4BEF-A81A-63A54C8387E2: Angerer, Sebastian
+  - 4A1D1B93-1F40-424E-8EF2-79CD014B3264: Barth, Andre Volker
+  - 4A28F12F-BBDD-4A40-9654-BF467BA0ABA7: Henseler, Thomas
+  - 4A753D11-F0B3-4868-91E3-1654448CF179: Bannehr, Lutz - Prof. Dr.
+  - 4B7D2ECD-18C9-4004-AA80-BC743D3B046A: Müller-Ziermann, Marko
+  - 4bffc8a0-4371-1037-8df7-6f1db8bb7718: Katya Yankovenko
+  - 4C490E6B-B39A-49F6-BFD6-97DDDDA331AB: Runzer, Fabian
+  - 4CF8CE4D-A7FB-442D-A7D9-D923A400A760: Steinhoff, Florian
+  - 4D2384CF-5BC0-4B3E-9A0E-23C30D15C051: Lehmann, Stephan
+  - 4D8B9F14-939A-4C3A-8983-3572C2194E45: Fanselow, André
+  - 4DB0DC61-B5B1-4C3D-A03C-9E0DEC2C5513: Hoffmann, Martina
+  - 4dc3d4b0-4f2e-1037-9b2e-294923303e71: Nils Dohndorf
+  - 4E49B2FA-4459-4905-87E6-F8E2FF80283B: Ahrend, Nico
+  - 4E61DE87-0AF6-4802-9302-A44CC810E1CB: Saurbier, Michael
+  - 4F600C47-34EB-4455-873F-70376858FCC0: Hou, Fengxueyang
+  - 5007CCA6-8071-415E-9781-ED9FECB2E382: Fockenberg, Annika
+  - 52555A9F-ADE5-4F67-B2BF-D6E3BFE6209E: Fritsch, Andreas
+  - 5272E764-8A83-446E-AC9B-8562CD8A2E2F: Grigutsch, Phillip
+  - 528B2ACC-8615-43B6-919F-169C81A7351B: Christopeit, Chris-Robert
+  - 52A275C5-2855-4C41-85DE-6FD6CD4BF416: Jäckle, Jörg
+  - 538238CE-8E78-48BD-8004-77DDFB19B947: Haarbach, Max
+  - 5467C296-3168-4DED-B54A-0A9F39DBFE20: Salisch, Mario
+  - 55a133c8-bea4-1036-9ed2-9f5500fb8586: kai zhang
+  - 55DDBCA0-EB9F-42FB-9909-72D7FD131E46: Weber, Kristin
+  - 55FDC354-8EF3-4A4D-94AB-A42391BCA3F7: Schulnies, Frank
+  - 563C422A-0F1B-409C-BE23-1FCF63A9DAC0: Abu Ghanim, Marwan Ahmed Saeed
+  - 5825D826-D33C-4ABF-B213-7A712CE31846: Grey, Katrin
+  - 58C4E932-AA0C-4A1F-9C07-B4468C476E26: Heda, Marc
+  - 5B31E5C4-043D-43FB-BC83-E86A83349F8B: Stinski, Maik
+  - 5C04D38A-88F0-4D67-8887-B7C83BA94FE3: Zeißler, Maik - Prof. Dr.
+  - 5D13B38D-1DA7-46D0-AEF2-94BE10F6A26A: Ginzel, Michel
+  - 5D711DED-1E8B-4F6A-A1CA-01545B3A28F7: Raisch, Anna
+  - 5E98A204-A71E-456F-8D7E-0B8FB025866C: Guttmann, Sven
+  - 5FE425F1-1AD5-44E9-B793-DAD9241DCDBD: Rotsch, Matthias
+  - 60CEBD58-BCB8-4371-9A64-BB33894461E8: Siegert, Dennis
+  - 60D492D5-6F40-46B9-BE2B-6A3FFF5CE734: Krentz, Kristin
+  - 613283CF-A870-44AE-A06F-D4D8BE26D1D6: Lamazaz, Lahlali
+  - 6178eabe-307f-1036-8a1b-3bacc49a4817: Felix Stange (fs@axxeo.de)
+  - 61EECA29-F7E6-4C80-9521-9BAD47360999: Schulze, Felix
+  - 6215C434-0E67-4B3A-ACCB-D0E1075FCD36: Bernhard, Norbert - Prof. Dr.
+  - 62590165-5648-428C-B24B-41AB198BEBBF: Dumpies, Alexander
+  - 6275F5A2-1A9D-4393-A27B-B0F69711F7DD: Wucher, Severin - Prof.
+  - 62C3CE43-65A4-4A08-9CBB-1F46ADE4C4B2: Schulze, Johannes
+  - 62E790A8-922F-4F63-AC1E-7BE92C6A0560: Makala, Michael
+  - 63abcc10-5e56-1037-9b45-294923303e71: Robert Gräfe
+  - 63CD835D-323C-40A2-9F61-D9BCF3D2AEA1: Bachmann, Michael
+  - 643DDFB9-12D7-4EBC-9D2D-DAEFA439FC02: Erfurt, Ines - Dr.
+  - 6474ca60-532b-1037-9b3d-294923303e71: Wei Yuan
+  - 64909467-E74B-49E0-A501-591C14A34FED: Petersen, Kerstin
+  - 64BFE358-BB2E-4313-A01C-EB803E238EC9: Stielow, Michel
+  - 650733f8-5404-1037-9b40-294923303e71: Ce Yang
+  - 654C7917-C26F-445C-AEBE-69658C2DB336: Huang, Mengyuan
+  - 66495694-5E2F-4644-93FF-34F307E8A421: Konar, Gülsüm
+  - 66503824-DA1E-4D00-A450-338F9919CDE2: Klein, Stephanie
+  - 66B46170-5C57-4201-AA54-A4536E92A3F4: Rolle, Maximilian
+  - 677EAB2A-09AC-4C39-BD01-A6DA8F0D2037: Mousa, Ra'ed Maher Issat
+  - 67A92E97-2024-4A54-B71F-7F5B790D04FC: May, Johanna
+  - 67D2021E-AA08-4881-A6A4-C209D1829C01: Al-Mutawakel, Ali Abdulrahman Mohammed
+  - 682f234a-20b8-1036-8a17-3bacc49a4817: Student Student
+  - 684307B7-9385-47F2-808B-6FCC5FB08318: Schulz, Janina
+  - 69BB6B66-BC34-45D8-B4F2-1D7ED1ADC245: Wiens, Wladislaw
+  - 6A412FBB-3BF2-4959-8304-E95CB4A4C2C3: Klose, Stefan
+  - 6A5C8EB3-61C8-4130-8588-604388AD78A1: Schliephacke, Franziska
+  - 6ACB60B9-2B2F-43BF-89D9-076255891465: Herrmann, Matthias
+  - 6AECCC24-6432-4006-8829-B0D58051FE46: Ehlert, Christian
+  - 6C18377F-2824-4C81-A337-B8FF98B47EA3: Jeberien, Reinhard
+  - 6c3ebcd0-4370-1037-8df2-6f1db8bb7718: Lidiia Hryshko
+  - 6D2D2E1C-4D0A-4EA0-B572-B31EB5A6A5E9: Pflüger, Alexander Eduard
+  - 6D8BD4CF-980B-42FD-A039-CEDECEFDC669: Al-Oraimi, Mahmoud Mubarak Mohammed Rashi
+  - 6E5B562A-F955-40A3-88AC-1B85BB62A3BD: Gorny, Jennifer
+  - 6EE3BBEF-A350-4047-B64A-79CD3A62DF14: Degenhardt, John
+  - 6F351B94-5330-4722-B777-BB66F99571F2: Samur, Volkan
+  - 7035B552-DA8A-43B4-8FEE-83BF55E4DE29: Ermark, Robert Lee
+  - 70A68524-EED2-40D6-88CA-BBDDA89C07EF: Al Mardhouf Al Sa ádi, Sultan Salim Mohammed
+  - 710FF0C4-C7AA-4062-989B-B326F25B569C: Körfers, Simon
+  - 7166E3B2-3299-4C7D-9963-8BA4DDA16BA7: Graubner, Nicole
+  - 71A35BFA-0C52-4007-8395-410F9163563D: Hiller, Georg
+  - 7227E03C-446B-4DF2-8A64-8A7898260ABE: Brutscheck, Michael - Prof. Dr.
+  - 727B54C6-7934-433A-BB8E-40F51B2C524C: Scholz, Heiko - Prof. Dr.
+  - 73174717-1801-4667-A8C8-0011487472C2: Bley, Matthias
+  - 734D9112-5C30-4B11-8336-7A3C6C3C220F: Breiting, Eric
+  - 73A4A9E6-12CF-4F7F-AFF3-8F5CE0838D3E: Kretschmann, Gunnar
+  - 73C5865E-4EF0-49C7-BC9C-BFF8F840103A: Montano Soto, Luis Fernando
+  - 73D4B21C-5638-4906-930B-6EF40B937B65: Voigt, Lisa
+  - 73FC386E-1550-4824-9009-315DF18F950A: Knaust, Florian
+  - 744f0c6c-4f2e-1037-9b2f-294923303e71: Sebastian Zorn
+  - 74FDF894-0DA6-4229-B396-A88DC239411F: Roth, Katharina Frieda
+  - 750F30B3-9739-46A0-99EB-9D074996F45D: Baumann, Alexander
+  - 75485863-0ED4-45B2-B96A-77B953BD9B07: Lehmann, Maik
+  - 75DD6545-896E-43B4-B7E4-B4B4170E45A2: Oßmann, Dennis
+  - 76089556-E30B-448F-B09F-BB9874FC0DD0: Thalmann, Sabine
+  - 761A6501-4BA3-445D-83CB-3E54B5E58B70: Lorenz, Fabian
+  - 763EE8F7-CE87-4E0D-8082-49DD413CD16C: Hesse, Jörn
+  - 7651BCDC-C4AB-4AB1-A5C6-FA95BDCAF350: Sprung, Ralf
+  - 76B14FF1-22A2-4F91-BED7-876FF15B3F6E: Böck-Murr, Tanja
+  - 76E1323E-54C7-4DBF-AD3B-987EA32570C2: Röper, Jürgen - Prof. Dr.
+  - 7738585B-0FFF-4AE5-959B-CA333117DC60: Kranhold, Bettina
+  - 7822B5C9-A70E-40C3-874B-08E317409DC6: Stremme, Ingo
+  - 78D7F31F-8010-41C9-A9BD-05F332AFD3A8: Bily, Benjamin
+  - 7901B789-D286-4690-9EED-26E7DC2AA644: Wolter, Roman
+  - 7992F54F-31FB-4070-A652-CE20338C9B98: Mrozik, Benjamin
+  - 7A292B79-C8B3-412D-88B3-975817E2FED3: Gahr, Eileen
+  - 7a2c189a-4f2f-1037-9b34-294923303e71: Yi Gao
+  - 7AA2CF68-6311-4FA2-BC28-EF19C3552008: Stahr, Björn
+  - 7AA576A3-6B17-4BF1-8ED2-F44E4EEC277A: Al-Amri, Fuad Abdulmalek Yahya
+  - 7B81EC42-9405-4EA6-9DF5-DC7BC61F9719: Ahlmann, Tino
+  - 7bafca7a-bf6c-1036-885b-712b78322d35: Hans Hildebrandt (Hans.Hildebrandt@student.hs-anhalt.de)
+  - 7BD8C7A8-E1AB-49D4-AF0D-8B4375A1AE8B: Stiller, Martin
+  - 7c348c54-aefc-1036-8219-71ee7b12f2c9: Python User
+  - 7C942165-1D2C-4A67-9245-88B905E7618D: Michelis, Daniel - Prof. Dr.
+  - 7DC84D72-8257-424B-9DDD-9C74F585333E: Malz, Steffen
+  - 7E194A4D-6A8A-4C33-97AA-79D9AE4B3E55: Beyer, Jens - Prof. Dr.
+  - 7E9FEEA4-3094-4957-8425-8BCCE511061C: Ermark, Ralf-Roland
+  - 7EBDBC47-2D14-45BB-BD93-F0C85C78DCBD: Legerlotz, Maike
+  - 7EC15860-7BDF-4297-87C7-A86543EF0056: Hohl, Michael - Prof. Dr.
+  - 7EC8F26A-805D-4126-947D-31D70C07894D: Kralik, Kevin
+  - 7f03f7ee-4371-1037-8df8-6f1db8bb7718: vladimir tolmak
+  - 7f5124e0-ca9c-1036-8863-712b78322d35: Yuan Chen
+  - 7F809EF5-4398-4BDD-A361-C8571D3ECFA9: Bartkowiak, Claudia
+  - 7FA4E344-8FCC-4F5E-BD0F-0BA4332F028B: Naujoks, Andreas
+  - 7FC8650E-4330-429B-9AD2-FAEE382EC8E2: Krautwald, Niels
+  - 7FE2359D-5D3A-45E3-8686-80F79B49D6A7: Smykalla, Erik
+  - 8075E1E1-04EA-41DE-8397-0CEC207492FC: Wang, Wenjing
+  - 80C94C5F-8E37-45DE-9A2B-8879D3D89C06: Klukas, Florian
+  - 81691f34-436f-1037-8dee-6f1db8bb7718: Ruslan Arkhypenko
+  - 81F9484F-3401-4ADE-91D1-9D27699DA4F1: Hünefeld, Annemarie
+  - 82EA48BE-63C3-4967-9341-1461B384C1B7: Militzer, Yvonne
+  - 83432B91-8A3D-416A-99A4-5B474A68F91A: Kammergruber, Karl Jürgen
+  - 8355f96e-dfa8-1036-845b-6b2485630024: Tobias Mueller (tobias.mueller@hs-anhalt.de)
+  - 840450A9-7B48-4A07-ADCD-F3FC51801C32: Stockburger, René
+  - 84BDD0F6-B00D-4BCA-94A9-BBBD3D40C3E3: Jembere, Solomon
+  - 8545229A-454A-44EE-9419-BD4476AC2FC5: Böttcher, Anne-Sophie
+  - 85A85CBA-A0D3-4982-861F-323F3695DBB6: Papendorf, Anett
+  - 866CB88C-AE5E-40F6-92B8-7E677FBD7DFB: Eger, Christoph
+  - 86993D07-4D9F-44A2-BF23-2E7A073F00F0: Winter, Kristian
+  - 86BAD934-6989-4C53-A81D-1C8A3D22533A: Budke, Leonard
+  - 86CA4863-417E-47B9-B4DD-770F28842F5C: Niemann, Christian
+  - 87127F7E-6059-40F3-9189-332A34F31C43: Wagner, Simone
+  - 872E7B45-E188-4627-889C-2DF6C8870DEE: Wittig, Janine
+  - 883532EC-1500-401C-A792-CA0045232345: Baum, Steffen
+  - 88B99D36-FFBA-40FE-B565-184277E8B90D: Sander, Mario
+  - 88C05CC8-4415-4FF6-8910-3B1FA604F895: Papendorf, David
+  - 89049EE1-94F6-436E-9F1A-9410664F9DD0: Gerngroß, Heike
+  - 89F50E07-3FCA-4E06-B6AE-B757E3A687EA: Kunze, Chris
+  - 8A5BC878-FF0B-46E4-974A-ADE430CED687: Troelenberg, Anja
+  - 8A898CDD-859D-4ADD-AF10-AEB2FC9A8B29: Du, Yunfeng
+  - 8BF66CE1-14F9-4FFC-BF39-F19AEDEF62EA: Rudolph, Robert
+  - 8CF4707D-4240-41AE-A75A-C38BAC060FBA: Schuh, Mirko
+  - 8D5F93E5-2E56-4819-B8A9-D12A698C348C: Schliwa, Anne
+  - 8E351338-737C-45F2-8EC4-01091936F80B: Barth, Toni Ronald
+  - 8E4DE246-8229-43E9-87B3-685D005F9A59: Egerland, Lisa
+  - 8FCF593A-1277-414F-9EA4-F0FED1F506EC: Scholz, Annette
+  - 9040e34c-4370-1037-8df3-6f1db8bb7718: Daria Kobets
+  - 9162EA89-0AED-4A38-AE61-3CE9B19C0373: Luedecke, Christian
+  - 917C3A3A-29DD-473A-9732-9ED6E4634076: Jennert, René
+  - 920E4FBC-F699-4FD3-B4CE-7EC60E4BE481: Friedemann, Hans-Erik
+  - 929EDC53-6B9B-473E-9085-F4F2EF151FE2: Weise, Marion
+  - 933003C6-C701-48FF-9B51-54E37757571E: Ott, Christian Klaus
+  - 938B653C-BA6C-416A-8B11-081766E54398: Schütze, Stephan
+  - 93D53F8F-2D4A-421D-B654-7FE5752C5A01: Lustig, Charlotte Christina
+  - 94956119-9CEE-49B0-A66F-1A762C3CED85: Lüdike, Heinzpeter
+  - 951316D8-3F4F-496E-825A-D792671190D4: Kamila, Intan
+  - 952ae1ac-bf93-1036-8862-712b78322d35: Hongrui Zhu (hongrui.zhu@student.hs-anhalt.de)
+  - 96747751-0999-48E9-9248-4446F4EDF081: Minning, Christian
+  - 97253683-B468-47E3-BBA7-CD1460172702: Rau, Marcus
+  - 9783f68c-531d-1037-9b3b-294923303e71: Gunther Muth
+  - 97f40b98-3168-1036-8a20-3bacc49a4817: Anna Kostromina
+  - 97F4C028-7C76-45BA-9C80-48427259F8D5: Kaftan, Katrin - Dr.
+  - 986a5d58-532b-1037-9b3e-294923303e71: Siyi Chen
+  - 987BD064-C45A-4B73-9B15-C072F55DD5D5: Boggess, Ayse
+  - 98D75ED0-00B2-45AC-928F-B2E8BFB007F2: Müller, André Peter
+  - 98FBA077-01B0-4E9A-9A1A-82A1E285BFB4: Schnabel, Mike
+  - 99E24358-A2D0-4969-A2C1-78AAC0F6EE0E: Oschmann, Lucas
+  - 9A94B828-F85D-4100-89E0-CE9715DE1814: Kirmer, Anita - Prof. Dr.
+  - 9AA634CD-745E-4FD7-8821-93BB5639F421: Stier, Christel
+  - 9C4869C5-E1E2-4806-92A0-DB2F14B13C6B: Bauer, Elvira
+  - 9D3B7803-D1BF-4BF1-806B-6C551BC8C0B1: Gläser, Torsten
+  - 9DA7CFCF-3FD6-412A-B784-04BEC989EDFE: Zeruk, Carina
+  - 9E244C18-FBD3-4539-A3C5-351507028241: Zosel, Falko
+  - 9e788576-4f2f-1037-9b35-294923303e71: xiaoxi dong
+  - 9F06DFEF-8A3F-4FBE-BD86-072461D81426: Fazio, Biagio Orazio
+  - 9F8A84F3-121E-4E95-9347-63439C4A3A94: Emelanow, Luba
+  - A0959135-88AE-4EF8-A12F-2933E77F774A: Romba, Daniela
+  - A1C5B106-D981-41DC-95CA-E9AC6C03ADF5: Konert, Johann
+  - A1C6659E-7F5C-454F-B350-F1886EF2CC7D: Chmielewski, Ingo - Prof. Dr.
+  - A1F60151-43DC-4CED-9074-1F70BF69E48E: Kalkofen, Rebecca
+  - A2CFD219-7AED-4140-9AC7-BF32D4349047: Azarova, Olga
+  - A33B9D20-DEEF-4A47-B9BC-B05E6F0D03A5: Fleischer, Manuel
+  - A386718B-1028-45C6-B8BB-2C8B9877AC84: Herz, Susanne
+  - A3977FBB-9508-4850-99EC-5C2A868C55C8: Grösche, Peter - Prof. Dr.
+  - A3D7AB9F-9FE0-49F4-86FD-A90D783462FB: Schäfer, Maik
+  - A4747526-7940-4643-9532-6F8C95EFEB17: Mellin, Nele
+  - A514EAC6-E53C-4DB8-B2D1-CC1ED1AEC56F: Runge, Fred
+  - A6093FA5-A2B7-4B96-A704-A5EA6975219D: Steinecke, Gregor
+  - a68fe726-4f30-1037-9b39-294923303e71: Peilin Dou
+  - a6a5f7f2-4f2e-1037-9b30-294923303e71: Martin Mittrenga
+  - A7398B26-B04E-4C48-B1E1-9454798C0D21: Ngassa Tchanchou, Wildrich Idole
+  - A7542B54-A38E-4F20-8B28-4B852CD6634B: Giessl, Christian
+  - A7F7DFF3-3098-4CD0-A483-94E2DAE08E93: Begic, Adnan
+  - A812AC7D-1C47-4D39-B050-A031924E4BDF: Kaulbars, Daniel
+  - A8C0D18D-7C3A-4753-BBA6-F9BA6D60EB31: Lehmann, Michael
+  - A999ACC9-7032-42CC-8369-3C68A6B1B1C6: Rohleder, Viktor
+  - A9A624A7-0FED-4A0F-855C-4D2581FBFFC6: Zachert, Matthias
+  - AA21BFCE-B2B4-4571-A967-1BC93AA5434C: Schulze, Jana Marie
+  - AA33394B-3F61-4E0A-8AE1-8AD5592F4A81: Heckemüller, Tanja
+  - AAA2438A-4E0C-4B28-A853-270395F64987: Schirrmeister, Christian
+  - AAE688FB-0D86-4068-A6C7-E9308EC7DAD6: Gülbay-Peischard, Zümrüt - Prof. Dr.
+  - AAEE02C0-4AA6-469D-B8C8-AB7B42F6025E: Kitzberger, Hanns Bastian Mario
+  - aaf59302-54bb-1037-9b41-294923303e71: Jingjing Fu
+  - AAF9FE1C-6F0F-40DE-B9F9-A2DD3D6C4DE8: Drevitzka, Anna Alexandra
+  - AB70E5F3-8CB5-4B09-AA45-DE31D5FF70F2: Türkel, Murat
+  - AB877C34-6311-4A22-8CA2-0075DB0926C4: Dowgan, Marcel
+  - ABA652BE-0361-40BE-8C25-9F2A37F30036: Feimer, Mathias
+  - abrie: Abrie Coertze
+  - AC6AD809-1854-4437-AC62-30F1AE6EDD94: Huterer, Jonas Raoul
+  - AD25D2BA-B8EB-41C2-BA2B-D338A947D1AB: Schöne, Christian
+  - adam_n: Adam, Nadine
+  - ADB642F2-74AE-48BC-BF1C-E4BD7B6725A4: Schramm, Norbert
+  - ADE34F6E-BA8A-4C1D-AD3C-7D3B0002455B: Schulz, David
+  - adivanpour: Amirhossein Divanpour (amirhossein.divanpour@student.hs-anhalt.de)
+  - admcs: Christian Städtler (adm)
+  - admin: Holger Brandt
+  - AEF5510A-3147-4DFB-8E7D-81D4C4B5F0F8: Görke, Jana
+  - AF7AC966-4768-4428-A879-DBFAD72902F0: Seidel, Daniel
+  - AF9B24B9-4280-4724-9FEE-E10BFB6441C9: Seide, Jens
+  - AFE965E9-A0D8-48BA-A970-AAAFF6F3288A: Wolff, Roberto
+  - AG-Lebensmittel: LEF
+  - agoedeke: Arne Goedeke (arne.goedeke@hs-anhalt.de)
+  - ahenning: Alexander Henning (alexander.henning@student.hs-anhalt.de)
+  - albrecht_pg: Albrecht, Peter-Georg
+  - alexandrov_k: Alexandrov, Kiril
+  - AlgenFarm-Rechner: AlgenFarm-Rechner
+  - amadreiter: Andreas Madreiter (andreas.madreiter@hs-anhalt.de)
+  - amer: stam hajk (amer.kasem@student.hs-anhalt.de)
+  - anya: aime nya (aime.nyaq@student.hs-anhalt.de)
+  - APOLLO: APOLLO
+  - aroewer: Alissa Röwer (alissa.roewer@student.hs-anhalt.de)
+  - asapeha: Anastasiia Sapeha (sapega.nuy@ukr.net)
+  - aschneidewind: Anton Schneidewind (anton.schneidewind@student.hs-anhalt.de)
+  - asissenova: Ainamkoz Sissenova (ainamkoz.sissenova@student.hs-anhalt.de)
+  - atannewitz: Agnes Tannewitz (agnes.tannewitz@student.hs-anhalt.de)
+  - avasilkovskyi: Andrii Vasilkovskyi (vasilkovskiyandrey@gmail.com)
+  - B01B1754-7186-4835-90C5-DEE15AF210F3: Rott, Peter
+  - B093D3D7-02A6-4F54-AEE1-DA968B26281C: Pangsy, Karina
+  - b0d88c3c-bf6c-1036-885c-712b78322d35: Niko Heßler
+  - B12D4F25-7772-4BE1-A79A-EE016DB3614B: Kachan, Dmitry - Dr.
+  - B14A2216-6FEC-488B-B573-3B794C9461A1: Halle, Philipp
+  - B2032949-A182-4BB1-B389-0EB32649CBA0: Yimtchui Totchet, Boris
+  - B337D6C8-57BF-4979-BFBC-4E37ED32A51F: Brehme, Nora
+  - B3F12E90-B4FD-4D5E-BFA7-6A74BEEED25A: Jahnke, Daniel
+  - B412469F-7ADD-4A1A-A847-C96C4C4BE053: Haring, Corinna
+  - B41BA572-3DA0-41E8-B6E2-0396A2AA3A4D: Hülsiggensen, Bernd
+  - B436DD4F-D5D7-420C-A59A-31846665836B: Eichblatt, Franz-Christoph
+  - B44E5A61-89B0-4497-B8E8-480E0A3B6761: Manthey, Sven Uwe
+  - b45bd2d8-5328-1037-9b3c-294923303e71: Michelle Adriana Piras
+  - B4A4B0C7-5831-44F2-9FCE-77E1B4ECFE82: Schotte, Ralf
+  - B559BD30-E4C9-44EB-9356-A38D0EEF8EE5: Schäm, Michael
+  - B61AE4B4-4162-4889-9DF9-904E19C50E8C: Alshaer, Gaber Abdullah Gaber
+  - B62325EC-EDDE-4B65-9460-DE6A1B01125F: Thöle, Andrea
+  - B6DB7ADD-F37A-4439-8408-17ED02DDD9D4: Spaseski, Jane Benjamin
+  - B71AF46A-518C-4777-AF7A-907A2238C9B4: Volz, Silva
+  - b73d22b2-5a31-1037-9b43-294923303e71: Dandy Nagel
+  - b7803e2a-0f6a-1036-8a0c-3bacc49a4817: root
+  - b783ce8c-0f6a-1036-8a0d-3bacc49a4817: nobody
+  - B851F047-623C-4972-B836-653934C4F7AA: Zechin, Clemens
+  - B86EBD16-65DD-44CB-9532-1BD9F447DAFD: Peter, Nicolas
+  - B8CCE2A0-DF12-4D42-A71E-A9A2BFF4DA1B: Rau, Uwe
+  - B8CFCEAA-0BE1-485F-B0BC-4E0660BDBB32: Kuhfahl, Friedhardt
+  - B9DF5679-94C9-416A-AC8B-8C36DBA0B627: Friedemann, Benjamin
+  - BA2C3C2A-BF77-4D08-A5EB-0997F0E76AF9: Ashraf, Adnan
+  - BA9FBA17-149B-4840-AA2D-CDF7FF6869EE: Böschemeier, Michael
+  - bader_n: Bader, Nicki
+  - BB42C02D-B20F-419F-B613-DAC948F295C2: Kneese, Juliane
+  - BBD74D76-1DE8-495B-B7D8-00EEAE5F57CA: Danneberg, Florian
+  - bbf3c496-4370-1037-8df4-6f1db8bb7718: Valerii Yakovenko
+  - BC3C2F04-D76B-4B24-813E-54C60B78F895: Renner, Bernd
+  - BC504729-4BB3-42C5-91B5-BEB9F9333FE4: Pfuhl, Karsten
+  - bd14d4ea-4371-1037-8df9-6f1db8bb7718: husam tubashi
+  - BD4123ED-0B78-4681-8831-6B90FBD1B068: Kröcker, Alexander
+  - BDCDF4B0-DA7B-4E96-B279-4E2E56D4FA46: Unbekannt, Jörg
+  - BDD953F7-13A0-445F-BA87-D3BC4B3427DF: Ahrendt, Sven
+  - BE59BF28-C3D9-4C95-9772-7576D82D2405: Hanus, Friedrich
+  - BE74B543-4FD1-4C42-9072-8F1D6986B5CA: Lu, Yili
+  - BEF24484-03B9-45C1-B7B5-69E430EC6DE9: Neubert, Marcel
+  - beilcke_m: Beilcke, Marc
+  - BF590942-7D68-4C23-BD0A-CAC47EC25FEF: Scharfenberg, Annalena Margareta
+  - BF802621-9377-44D4-ACF1-27CD30AB55F5: Richter, Volkmar - Prof. Dr.
+  - BFA6C6AC-49AD-4865-BAE3-D6D588EED05F: Heins, Marcel - Prof. Dr.
+  - bkiess: Benjamin Kiess (benjamin.kiess@hs-anhalt.de)
+  - blum_f: Blum, Franziska
+  - bode_a: Bode, Annina
+  - boos_k: Boos, Kathrin
+  - borchert_a: Anne Marie Borchert
+  - bozalp_t: Bozalp, Tolga
+  - bracio: Boris R. Bracio (bracio@ieee.org)
+  - breitschuh_t: Breitschuh, Torsten
+  - brozek_j: Brozek, Jörg
+  - burgdorf_e: Burgdorf-Schröder, Ellen
+  - burkat_m: Burkat, Marcel
+  - C035BC40-5797-4C45-B208-F8DB3954A5D3: Gong, Shuai
+  - c132d256-4f2f-1037-9b36-294923303e71: xingzhou jiang
+  - C1D123DE-623A-4D29-BEF0-B34CD61D422D: Wegner, Robert
+  - C1D5B55A-A770-43CA-B87C-03B81128A835: Ackermann, Stephan
+  - C20E91C8-869D-451D-B8EF-7289ED181E01: Strauß, Steffen - Prof. Dr.
+  - C2DCB329-F329-4030-A5CB-9EB1654C8031: Ahsan, Mohamed
+  - C2DFBB17-CE2A-4982-B21A-B0211B44501F: Stumpp, Stefan - Prof. Dr.
+  - C2E29515-D85B-47EA-9657-8C72D44391DB: Ulrich, Robert
+  - C38E564D-25E1-4EFF-88CE-5E89C5959ED8: Ruhbaum, Christoph
+  - C5917FA1-439C-45BB-B393-723D7A4BED6C: Send, Hendrik - Prof. Dr.
+  - C5982438-FDD8-4016-A190-9B0EBB8D2BB1: Fritzsching, Hannes
+  - C5E994B0-4846-46AD-9277-135A0371A489: Tröger, Robert
+  - C61F0B0D-08A6-41DC-9F81-C750D68D855B: Bauer, Stefan
+  - c64946bc-532b-1037-9b3f-294923303e71: Qian Su
+  - C64F67DB-5367-433B-A347-3B04C81FB8D2: Volkmann, Sebastian - Prof. Dr.
+  - C68CE326-2659-41A5-855F-40DE4245F4E5: Mellotat, Florian
+  - C68D35B3-4EE1-4383-ADA9-2007A0ABA915: Kahler, Melanie
+  - C6F7B505-E051-45E8-BE32-CB913BF43DCD: Gratzke, Juliane
+  - C758D080-A27F-475F-A13D-DC46B12101D8: Schrade, Franziska
+  - C7E78C81-C460-407B-B768-D1D89A2EFAA5: Baden, Stefan
+  - C84776B7-7309-470F-8F5E-B9CF7AD8F9E3: Eulitz, Katharina
+  - C85DDCA1-C737-4E12-BF0C-D6F27D2422C6: Glüse, Christian
+  - c8f1a83a-436f-1037-8def-6f1db8bb7718: Vladzslav Hravchenko
+  - c9c0ed88-be96-1036-9ed0-9f5500fb8586: Klaus Hahn (chmie@ichmielewski.de)
+  - C9F63F36-CA26-4FBA-B762-0735A67F4905: Carle, Silja Lena
+  - CAA7862D-729C-4072-8D39-0C7CC12DA578: Schmidt, Falko
+  - CAEF402D-EB1D-49A8-AD06-82FB40FA739A: Baron, Jana
+  - CB58DAA2-9D9A-456C-AF70-8B6A570C1161: Winterfeld, Dirk
+  - CB634524-8607-4188-9EEF-944D355C031F: Schöps, Kristin - Dr.
+  - CBB12D7C-17C9-446E-BF42-7310B05A48B2: Fechner, Antje
+  - CBFE8944-082D-4099-866D-37A5BED70256: Poetzsch, Sebastian
+  - CCB9D571-9C7B-4DFF-810D-5543F02FA2D1: Lückmann, Rudolf - Prof. Dr.
+  - CCC9AA9E-2533-4733-B4BA-57294137A607: Meyer, Rolf
+  - CCE26C4A-9E69-4DC7-B83E-BD6E06F35FB2: Hennicke, Heike
+  - CD02233E-5CE2-4EE3-8F3C-B4A9935F53A1: Schlegel, Kathleen - Dr.
+  - CD46E132-5932-459F-9942-3F4F31554FAF: Nadj, Oliver
+  - CD908831-1628-46F7-940D-3421A53626F5: Schiedermeier, Florian Andreas
+  - chmie: Ingo Chmielewski
+  - ckral: Christopher Kral (Christopher.Kral@hs-anhalt.de)
+  - cloud_mooc: Erasmus+ project MOOC2Practice
+  - csterz: Christopher Sterz (christopher.sterz@student.hs-anhalt.de)
+  - cstruck: Christian Struck (Christian.e.m.struck@student.hs-anhalt.de)
+  - ctesta: Carlo Test
+  - D00619C8-DD04-4C82-8AD7-593024903CF4: Jüsche, Mathias
+  - D0F04678-2A16-4892-AA6D-9D2A208D2458: Nährig, Peter
+  - d219da14-3168-1036-8a21-3bacc49a4817: Tobias Held
+  - D297D52F-FDA6-453D-AECF-1BA9D38B8FED: Xing, Sisi
+  - D29BAF5D-A71B-4750-B678-7119DFD2EF27: Böhm, Sebastian
+  - D31BDEF1-AF10-477F-9722-57669FC3F63D: Schässburger, Elisabeth
+  - D43649C1-CC37-4272-B8C5-D029EC78E6BE: Brusch, Michael - Prof. Dr.
+  - d43a2340-54bb-1037-9b42-294923303e71: Yan Wei
+  - D4F301C4-8E35-40E3-B6F8-B4F4B2008208: Leiffer, Cecil
+  - D59E4ED1-E461-4F0B-A3E2-5A5A06A98088: Perske, Pauline
+  - D62E6EDB-D5BF-4393-B94E-8A73739186B1: Peter, Daniel
+  - d777bcaa-307e-1036-8a19-3bacc49a4817: Dean Onimole
+  - D7826238-A6E0-4038-BFC9-8E73174EB8BA: Zhang, Mengze
+  - D80E15E4-A03F-4AD5-B924-B0B9F3046D1F: Zinserling, Mario
+  - D81672C5-0F40-473B-BD6B-0B2054754A4B: Spiesecke, Jörg
+  - D865F360-8708-4A63-BC5F-E8889E8E36A5: Wiersdorff, Sophie-Charlott
+  - D866B6E0-E27C-4173-89CD-665C266E7EBF: Kirschnick, Marlen
+  - D8BB4E24-D2B2-44D5-8879-EE6E871099B2: Langenstraß, Elisabeth
+  - D97CB6B6-79A5-4042-9BCE-53B7A455103A: Schote, Daniel
+  - D9E6F14A-87F8-4DD2-B43D-D4EDFE370229: Werner, Anne
+  - DA9FE8BF-2FED-4BDA-8475-DD31429464D7: Shkurko, Pavel
+  - DAC849A6-FE12-4478-A38C-E7D046B49701: Petschel, Christian
+  - dalhafez: Douaa Alhafez (douaa.alhafez@student.hs-anhalt.de)
+  - DBA36442-3701-4D32-BA9F-8D495E825BB9: Pizzutto, Valentina
+  - DBE4D9AE-4689-46DC-9BB3-47C961BB2206: Chen, Ping
+  - dbf98536-4f2e-1037-9b31-294923303e71: Fangqing Yang
+  - DC5A14B5-A880-43F2-9A66-B404CEBE28BD: Weber, Carl Constantin - Prof.
+  - DCB45176-ACFC-405A-A716-F5D1B67DA6EC: Kießhauer, Laura
+  - DCEB3F03-F67A-4059-8981-5D9FF6D3EAF6: Finke, Daniel Michael
+  - DD0D163B-421C-45E8-924E-38EA6D6FFB70: Baumgartner, Ralph
+  - DD4F3168-C5E4-4D9A-9296-347FADFF08E9: Dolbinow, Thomas
+  - DD77E370-DDDB-49BE-A450-1CD014450F20: Matthes, Sandra
+  - DDADB4EC-C562-440A-867F-6E68F41CFF28: Grotheer, Nadine
+  - DDBDFB72-2FE1-4719-916C-17AF89182223: Bellmann, Anja
+  - DDCC095C-CD6A-4BAE-BCF2-3B7A5C5D8C79: Sendil, Yahya Koray
+  - DDCC72D9-10F5-4B37-87E8-4F9EC599FB33: Haase, Caspar-Konrad
+  - DE8B85D0-ED68-4FF8-9907-7CA70826200B: Bracio, Boris Romanus - Prof. Dr.
+  - DF309587-9187-42A6-BA3D-9D81A649BDC9: Bückner, Stephan
+  - DFE3D66A-2175-429B-880A-A4344C429618: Krüger, Roland
+  - dietzel_s: Sandra Dietzel
+  - dlehrer: Der Lehrer
+  - E04160DD-0465-4DD6-83EB-9DAC06793171: Bessert, Rolf
+  - E0C105BB-22E9-4CB7-9723-9CFF8C72F42C: Krautwald, Matthias
+  - E0FDDA9D-943D-41F1-9139-4FC42576959A: Majchrzak, Johanna Anneliese
+  - E11A39CA-5FC3-43BD-801B-EDF1FF26CD77: Hamrita, Badr Eddine
+  - E140072E-4100-427A-9086-7D4D751A0A95: Tokarski, Sebastian
+  - E1C0C233-7DD2-495D-9DBE-7A5B06A079AA: Knabe, Josephine
+  - E1E6C6BB-E821-436B-B76F-CD7644768D86: Kaiser, Marco
+  - E235D369-6ACC-45A3-A406-980A12CF0523: Heinemann, Robert
+  - e2c07bc0-bea3-1036-9ed1-9f5500fb8586: Stefanie Fiedler (stefanie.fiedler@student.hs-anhalt.de)
+  - E32EEDB8-58B6-4E30-BE4C-4F2917BAC4B7: Stefaniak, Florian
+  - e3af7eaa-4f30-1037-9b3a-294923303e71: fangyu hu
+  - e56df0f6-4f2f-1037-9b37-294923303e71: shunlong yang
+  - E5887D16-4A78-4D8E-80A8-ED9F6711A3E7: Drechsler, Christoph
+  - E5A056A8-E8C8-418C-AA11-B9339A4E883C: Draschoff, Vivian
+  - E6807E83-04B9-4BFA-8275-CB11C1ADB1FB: Ebeling, Philipp
+  - E7758499-15BA-43C7-A169-7C9ADDCC457B: Arzt, Jasmin
+  - E848E319-5E8C-453C-AFF6-CF488207750D: Denke, René
+  - E8679BF8-5F25-48D3-9D4F-E26092BCDA74: Jobst, Sebastian
+  - E8A3CB9C-4273-40AC-8EE4-A302CA591CB9: Remmers, Tim
+  - E9214B8D-7F02-41D7-90B4-9FF33D850AE4: Kaufmann, Kai
+  - E95EEFD9-B465-4486-BED7-5E127E1AF072: Pauk, Heribert - Prof. Dr.
+  - EA76A671-2651-4565-A361-FAE0B464089C: Gaus, Hauke Christian
+  - ea7fb3d8-4370-1037-8df5-6f1db8bb7718: Andrii Korchevnyi
+  - EAB9EAE0-4752-4BDC-85F2-3F0CA441E752: Riedel, Martin
+  - EC0315AC-BCE6-471A-BE81-D5A61ED87D6D: Uxa, Martin
+  - ECA8A67A-2AC7-4536-BEE7-AC79D92F95F7: Riedel, Christian
+  - ED589514-B52D-494E-A4D5-C14ED0C0481B: Wirth, Thomas
+  - ED78CAAA-7582-4591-ADF4-0C5E64709227: Rochell, Elisabeth
+  - EE1A8050-0E5D-4667-B3AA-80124BF222EB: Freiberg, Kai
+  - EE3939DD-A27F-40F5-A6EE-EE4F7F9784E2: Steinmann, Susanne
+  - EF076A3B-33BF-486F-BA8B-535F481DD390: Smolarczyk, Florian
+  - EF4DE666-DC78-40FF-9C02-75D4BC272140: Namendorf, Martin Christopher
+  - EF7E9059-93C8-47CC-94B8-69BD8A96019F: Schönfelder, Marco
+  - ehrich_a: Ehrich, Andreas
+  - eit-student: eit-student
+  - emerker: Eric Merker (eric.merker@student.hs-anhalt.de)
+  - emwtest: emwtest
+  - evaiman: Evgeniy Vaiman (cursway@gmail.com)
+  - F05EE3C8-DD59-4CE8-9DF5-C8C5CEFD4A41: Liang, Mengyang
+  - F16E25F2-2765-4ABC-8D45-77EC958FEDAC: Savchuk, Volodymyr
+  - F1CAAE72-AE0B-4E6F-BE05-A390EDD80655: Klein, Malte
+  - F23E6437-1377-4477-83E4-CC45C2E3389C: Liste, Victoria
+  - F2A696B2-6874-4352-BDF3-C84DA4D97121: Treshchev, Alexander
+  - F3E5DD18-5A98-4E20-BA84-14F2788D63B8: Szeja, Steven
+  - F434A492-4CC2-4E6D-9F1B-3903A344111D: Silva Calvo, Sergio Humberto
+  - F453EFDA-2508-4F25-A298-7B903824052E: Kovacevic, Damir
+  - F51BE42A-8CDF-4246-A654-C4884B715051: Brinkmann, Tamina
+  - F5AC10B5-A20A-4677-99AB-FEEEC9C45EC5: Schümichen-Gössl, Kathleen
+  - F5C0355C-5F3B-415D-B1B4-273163644D25: Holländer, Ronny
+  - F619111A-8FA5-4104-9867-B009B0F1FD21: Freiheit, Rick
+  - f655ce58-bf91-1036-885f-712b78322d35: Vinzent Reiß (vinzent.reiss@student.hs-anhalt.de)
+  - F71BA28A-BA74-43A8-93D5-AEAAE1FAEDFE: Luzius, Sandra
+  - F71BE710-8AC4-400B-9D9E-22221BBBCA47: Balint, Jannik-Loris
+  - F75454B4-961B-4545-8AB7-622FD15731C8: Henning, Matthias
+  - F75D25DD-122B-48B2-ABDF-35BEBB31385C: Golowazki, Alexander
+  - f84407f6-bf92-1036-8860-712b78322d35: Renzhi Li (jingjing.fu@student.hs-anhalt.de)
+  - F91D9C89-32C7-4151-A24C-F28728108205: Yaichko, Anna
+  - F9323A82-DEBB-4FFA-A326-E0AC563DF734: Haller, Sandra
+  - F9D04ED5-D178-4D4A-B638-C98CF48AE9DC: Krull, Moritz
+  - FD96EFEC-E9BD-475F-942C-9F18FBE4B5DB: Kotzur, Martin
+  - FDA14767-DE32-45D9-811A-82AAA29461CF: Lieder, Melanie
+  - FDB940F5-77F7-4B26-906F-6DC9AD21461D: Keller, Lisa
+  - FE92F4FA-A81A-4B82-BA9C-DF9E85607587: Hils, Lena
+  - FEA387B3-AAB1-4C22-9CAA-E7AAE98D507F: Bach, Sarah
+  - FEF80240-4D39-4D31-82FD-A70D92F5ECAD: Himpel, Frank - Prof. Dr.
+  - fenzl_r: Fenzl, Rene
+  - FF337304-DE1C-470B-A99F-A7876EBC9EBC: Amelung, Christian
+  - FFDEEC5F-3CD4-44D5-A99D-8A5F6D31C611: Schulze, Christian
+  - franze_a: Franze, Andreas
+  - freitag_c: Freitag, Christian
+  - frohberg_m: Frohberg, Michaela
+  - gern_g: Gern, Günther
+  - gonzalez_m: Melanie Gonzalez-Dias
+  - grunst_p: Grunst, Paula
+  - gtest: gtest
+  - harry_p: Harald Prütting (harald.pruetting@hs-anhalt.de)
+  - hauschild_b: Hauschild, Bernd
+  - hdanylchenko: Herman Danylchenko (heradanilchenko@gmail.com)
+  - heyn_j: Dr. Heyn, Jürgen
+  - hfassa_n: Nassima Hfassa
+  - hgruss: Holger Gruss (Holger.Gruss@hs-anhalt.de)
+  - hicksch_j: Hicksch, Jary
+  - hiebsch_h: hiebsch_h
+  - hluehring: Hendrik Lühring (hendrik.luehring@student.hs-anhalt.de)
+  - hoalkh: Hosni Alkhyari (hosni.alkhyari@student.hs-anhalt.de)
+  - hoehnerhaus_j: Höhnerhaus, Jil
+  - holstein_p: Holstein, Peter
+  - horn_s: Horn, Sven
+  - huke_g: Huke, Guido
+  - ianhalt: Innovationsbuendnis Anhalt (info@innovationsbuendnis-anhalt.de)
+  - igwebuike_o: Igwebuike, Onyeka
+  - imerfert: Igor Merfert (igor.merfert@hs-anhalt.de)
+  - istudent: Informatik Student
+  - jh: Jimmi H
+  - jluenig: Jan Luenig
+  - kammer_k: Kammer, Karsten
+  - keitel_s: Keitel, Steffen - Prof. Dr.
+  - khahn: Klaus Hahn
+  - kilz_a: Kilz, Anja
+  - kirilow_e: Kirilow, Eva
+  - kirsten_p: Kirsten, Paul
+  - klengel_s: Klengel, Sandy
+  - klepatz_k: Klepatz, Kevin
+  - koch_f: Dr. Koch, Felix
+  - koch_seb: Koch, Sebastian
+  - koenig_i: König, Ida
+  - kokot_t: Kokot, Torsten
+  - kratzing_r: Kratzing, Richard
+  - krone_j: krone_j
+  - krueger_p: krueger_p
+  - ktest: Karla Test (chmie@es-lab.de)
+  - kuehling_s: Kühling, Sophie - Dr.
+  - kurbach_r: kurbach_r
+  - lalbrecht: Lucas Albrecht (lucas.albrecht@student.hs-anhalt.de)
+  - lasare_s: Samartzidis Lasare
+  - lazar_a: Lazar, Arne
+  - lmezationoumedem: leonel mezatio noumedem (leonelmezatio@yahoo.fr)
+  - lsteigemann: Lea Steigemann (lea.m.steigemann@student.hs-anhalt.de)
+  - ludwig_p: ludwig_p
+  - luenig_j: Jan Lünig
+  - lyang: licheng yang (licheng.yang@student.hs-anhalt.de)
+  - m.brutscheck: Michael Brutscheck (michael.brutscheck@hs-anhalt.de)
+  - martinez_c: Martinez, Cristina
+  - mbondarenko: Mykola Bondarenko (kbondchelsea@gmail.com)
+  - meherwade_a: Meherwade, Akash
+  - menzmann: Marc Enzmann (Marc.Enzmann@hs-anhalt.de)
+  - messerschmidt_b: Messerschmidt, Bettina
+  - metzner_t: Metzner, Thomas
+  - Michael Test: Michael Test
+  - mjkMJK: Jingkai Ma (jingkai.ma@student.hs-anhalt.de)
+  - mnada: maram nada (maram.nada@student.hs-anhalt.de)
+  - mobert: Martin Obert (martin.obert@student.hs-anhalt.de)
+  - mohs_r: Mohs, Ralf
+  - mohs_s: Mohs, Steffen
+  - mpoppe: Moritz Poppe (moritz.poppe@hs-anhalt.de)
+  - mrech_h: Heike Mrech
+  - mschnoell: Matthias Schnöll (matthias.schnoell@hs-anhalt.de)
+  - mshirvanifilabadi: Milad Shirvani Filabadi (milad.filabadi@student.hs-anhalt.de)
+  - mueller_u: Müller, Ulf
+  - mwickel: Melanie Wickel
+  - mxue: min xue (min.xue@student.hs-anhalt.de)
+  - nc-admin: Nextcloud-Admin
+  - neudert_g: Neudert, Gerd
+  - nkayali: Nour Kayali (Noora.k95@hotmail.com)
+  - nsnihur: Nazar Snihur (snihurnazar@gmail.com)
+  - odemchenko: Oleksandr Demchenko (lex7dem@gmail.com)
+  - olszewski_t: Olszewski, Thomas-Alexander
+  - opfer_h: Dr. Opfer, Holger
+  - otto_m: Otto, Michael
+  - panzer_b: Dr. Panzer, Bernd
+  - pawelzyk_u: Pawelzyk, Uwe
+  - pippirs_l: Pippirs, Lisa
+  - pittermann_r: Dr. Pittermann, Roland
+  - plail_b: Plail, Birgit
+  - plottwks.bbg: Plottwerkstatt
+  - pothen_f: Frank Pothen
+  - ppoehlitz: Paul Poehlitz (paul.poehlitz@student.hs-anhalt.de)
+  - prill_s: Prill, Sylvana
+  - r.kurbach: Kurbach, Rolf
+  - rahner_s: Rahner, Susanne - Dr.
+  - rchandola: Rishabh Chandola (rishabhchandola.1921@gmail.com)
+  - reiser_c: Reiser, Christian - Dr.
+  - rilyas_r: rawand ilyas (rawand.ilyas@student.hs-anhalt.de)
+  - rottengruber_h: Prof, Rottengruber, Hermann
+  - runge_f: Fred Runge (fred.runge@hs-anhalt.de)
+  - s2instro: ingo strobel (ingostrobel@gmx.de)
+  - sawadski_p: Sawadski, Patrick
+  - sberner: Simon Berner (simon.berner@student.hs-anhalt.de)
+  - schneider_c: schneider_c
+  - scholz_m: Scholz, Martin
+  - schulz_c: Carsten Schulz (carsten.schulz@hs-anhalt.de)
+  - schulz_m: Schulz, Michael - Prof. Dr.
+  - schwock_c: Christian Schwock
+  - seidel_k: Seidel, Kristin
+  - siemens: Eduard Siemens (eduard.siemens@hs-anhalt.de)
+  - sjoseph: Suja Mary Joseph (suja.m.joseph@student.hs-anhalt.de)
+  - sluenig: Sylke Luenig
+  - staatsch: Alexa Tschernitschek (alexa.tschernitschek@student.hs-anhalt.de)
+  - staegies: Andre Giesbrecht (andre.giesbrecht@student.hs-anhalt.de)
+  - stamkass: amjad kassoumeh (amjad.kassoumeh@student.hs-anhalt.de)
+  - stanmerk: Anne-Kathrin Merker (anne-kathrin.merker@student.hs-anhalt.de)
+  - stanmyku: Anastasiia Mykulska (anastasia.mykulska@student.hs-anhalt.de)
+  - stanscul: Andreas Schulte (andreas.schulte@hs-anhalt.de)
+  - stargoli: ammar saleh goli (ammar.s.goli@student.hs-anhalt.de)
+  - stbamosc: Jeremias Mosch (bastian.j.mosch@student.hs-anhalt.de)
+  - stbgliuu: Bingting Liu (bingting.liu@student.hs-anhalt.de)
+  - stcahell: Carolin Hellwig (carolin.hellwig@student.hs-anhalt.de)
+  - stcewuuu: Chenbin Wu (chenbin.wu@student.hs-anhalt.de)
+  - stcgche2: cheng chen (cheng.b.chen@student.hs-anhalt.de)
+  - stdamang: Dave Mangatter (dave.mangatter@student.hs-Anhalt.de)
+  - stdaqian: Dandan Qian (dandan.qian@student.hs-anhalt.de)
+  - stddguen: Danny Günther (danny.b.guenther@student.hs-anhalt.de)
+  - stdehaac: Dennis Haack (dennis.s.haack@student.hs-anhalt.de)
+  - steinhausen_r: Steinhausen, Ralf
+  - stelpoly: Elena Polyakova (elena.polyakova@student.hs-anhalt.de)
+  - sterphil: Eric Philipp (eric.Philipp@student.hs-anhalt.de)
+  - stfedann: Felix Dannenberg (felix.j.dannenberg@student.hs-anhalt.de)
+  - stfeeine: Felix Einecke (felix.einecke@student.hs-anhalt.de)
+  - stguegen: Gunnar Egenolff (GUNNAR.EGENOLFF@STUDENT.HS-ANHALT.DE)
+  - sthashen: Haoyu Shen (haoyu.shen@student.hs-anhalt.de)
+  - sthekast: Hendrika Kastner (hendrika.kastner@student.hs-anhalt.de)
+  - sthezhan: Heng Zhang (heng.zhang@student.hs-anhalt.de)
+  - sthischi: Henri Schiwek (henri.schiwek@student.hs-anhalt.de)
+  - sthuliuu: Huan Liu (huan.liu@student.hs-anhalt.de)
+  - stiskoch: Isabelle Koch (isabelle.m.koch@student.hs-anhalt.de)
+  - stjabali: Jannik Balint (jannik-loris.balint@student.hs-anhalt.de)
+  - stjaheun: Jan Georg Heun (jan.g.heun@student.hs-anhalt.de)
+  - stjaraec: Jannik Pascal Raecke (jannik.p.raecke@student.hs-anhalt.de)
+  - stjeknob: Jacqueline Knobe (jacqueline.knobe@student.hs-anhalt.de)
+  - stjidaii: Jiahui Dai (jiahui.dai@student.hs-anhalt.de)
+  - stjijian: JIaming Jiang (Jiangjiaming@student.hs-anhalt.de)
+  - stjizha3: jing zhang (jing.b.zhang@student.hs-anhalt.de)
+  - stjjkueh: Jule Kühn (jule.l.kuehn@student.hs-anhalt.de)
+  - stjjshii: jiaqi Shi (jiaqi.shi@student.hs-anhalt.de)
+  - stjobrau: Jörg Braune (Joerg.braune@student.hs-anhalt.de)
+  - stjoengh: Jonas Enghardt (jonas.enghardt@student.hs-anhalt.de)
+  - stjowend: Jonas Wendt (jonas.wendt@hs-anhalt.de)
+  - stjozhuu: Jianhao Zhu (jianhao.zhu@student.hs-anhalt.de)
+  - stjuklin: Julian Eric Klinger (julian.e.klinger@student.hs-anhalt.de)
+  - stkachuu: Kai Chu (kai.chu@student.hs-anhalt.de)
+  - stkalehm: kai lehmann (kai.lehmann@student.hs-anhalt.de)
+  - stkawan2: kai wang (kai.wang@student.hs-anhalt.de)
+  - stkezhou: keyong zhou (keyong.zhou@student.hs-anhalt.de)
+  - stkgyann: Kang Yan (kang.yan@student.hs-anhalt.de)
+  - stlaluxx: Laura Marie Lux (laura.m.lux@student.hs-anhalt.de)
+  - stlichan: liang Chang (liang.chang@student.hs-anhalt.de)
+  - stlicuii: Linghe Cui (linghe.cui@student.hs-anhalt.de)
+  - stlinapi: Linda Napieralski (linda.a.napieralski@student.hs-anhalt.de)
+  - stljliuu: Liu Lijian (lijian.liu@student.hs-anhalt.de)
+  - stmaingr: Max Andreas Ingrisch (max.a.ingrisch@student.hs-anhalt.de)
+  - stmapret: Manuel Pretzsch (Manuel.Pretzsch@student.hs-anhalt.de)
+  - stmatren: Maria Trensinger (maria.trensinger@student.hs-anhalt.de)
+  - stmhalsa: MHD Wael Al Said Obaied (mhd.w.obaied@student.hs-anhalt.de)
+  - stmhschu: Matthias Schulze (matthias.b.schulze@student.hs-anhalt.de)
+  - stmimess: Miran Messto (miran.messto@student.hs-anhalt.de)
+  - stmirahm: Minhajur Rahman (minhajur.rahman@student.hs-anhalt.de)
+  - stmmkoch: Markus Koch (markus.b.koch@student.hs-anhalt.de)
+  - stmnbach: Marvin Bachmann (marvin.bachmann@student.hs-anhalt.de)
+  - stmoalha: Mohammad Al Haj Bakr (mohammad.bakr@student.hs-anhalt.de)
+  - stmoalza: moad alzabin (moad.alzabin@student.hs-anhalt.de)
+  - stmoeise: Moritz Eisenhuth (moritz.h.eisenhuth@student.hs-anhalt.de)
+  - stmsstre: Marcus Streuber (marcus.streuber@student.hs-anhalt.de)
+  - stnabart: Nadja Barthel (nadja.barthel@student.hs-anhalt.de)
+  - stnadohn: Nina Dohndorf (nina.dohndorf@student.hs-anhalt.de)
+  - stoeckl_g: Stöckl, Gerald
+  - stoermer_l: Störmer, Luise
+  - stotmiks: Otmane Mikssat (mikssatotmane@gmail.com)
+  - stoukarm: oumaima karma (oumaima.karma@student.hs-anhalt.de)
+  - stpagess: Paul Geßner (paul.gessner@student.hs-anhalt.de)
+  - stphboet: Philipp Böttcher (philipp.boettcher@student.hs-anhalt.de)
+  - stphgrun: Philipp Grundmann (philipp.grundmann@gmx.de)
+  - strauss_s: Steffen Strauß (steffen.strauss@hs-anhalt.de)
+  - strave: rajendra kishore vemula (rajendra.k.vemula@student.hs-anhalt.de)
+  - strazhan: ran zhang (ran.zhang@student.hs-anhalt.de)
+  - strealsh: reham Al shami (reham.shami@student.hs-anhalt.de)
+  - strojunk: Robert Junker (robert.junker@student.hs-anhalt.de)
+  - strorudo: Robert Rudolph (robert.rudolph@student.hs-anhalt.de)
+  - strotroe: Robert Tröger (robert.troger@student.hs-anhalt.de)
+  - strujing: Ruoxu Jing (ruoxu.jing@student.hs-anhalt.de)
+  - stsesuhl: Sbeastian Suhl (sebastian.suhl@student.hs-anhalt.de)
+  - stshfann: shi fan (shi.fan@student.hs-anhalt.de)
+  - stshjian: Jiang Shan (shan.jiang@student.hs-anhalt.de)
+  - stshlinn: Shuai Lin (shuai.lin@student.hs-anhalt.de)
+  - stsiliii: Siheng Li (siheng.li@student.hs-anhalt.de)
+  - stsipens: Simon Pense (simon.pense@student.hs-anhalt.de)
+  - stsqwang: siqi wang (siqi.wang@student.hs-anhalt.de)
+  - stsyscur: Sylvana Schurz (sylvana.schurz@student.hs-anhalt.de)
+  - sttalizh: Lizhong Tang (tang.lizhong@student.hs-anhalt.de)
+  - sttejinn: Tengda Jin (tengda.jin@student.hs-anhalt.de)
+  - sttmschn: tom schnütgen (tschnuet@gmail.com)
+  - sttokonh: Tom Konheißner
+  - stttxuuu: Tianpei Xu (tianpei.xu@student.hs-anhalt.de)
+  - stuesta: Stephanie Tuesta (stephanie.e.vizcarra@student.hs-anhalt.de)
+  - stwazhao: wenjia zhao (wenjia.zhao@student.hs-anhalt.de)
+  - stwidieb: Wilhelm Diebel (wilhelm.diebel@student.hs-anhalt.de)
+  - stwiyeee: Wenyi Ye (wenyi.ye@student.hs-anhalt.de)
+  - stwuzhan: wenxiu zhang (wenxiu.zhang@student.hs-anhalt.de)
+  - stxowa12: xiao wang (xiao.b.wang@student.hs-anhalt.de)
+  - stxuwuuu: Xiangyu Wu (xiangyu.wu@student.hs-anhalt.de)
+  - stxxhann: xiafei han (xiafei.han@student.hs-anhalt.de)
+  - stxxyeee: xiaolei Ye (xxiaolei.ye@student.hs-anhalt.de)
+  - stxxzhen: Xiaohui Zheng (xiaohui.zheng@student.hs-anhalt.de)
+  - styfwang: Yongfeng Wang (yongfeng.wang@student.hs-anhalt.de)
+  - stygzhen: yang Zheng (yang.zheng@student.hs-anhalt.de)
+  - styiguuu: Yimin Gu (Yimin.Gu@student.hs-anhalt.de)
+  - stymliuu: Yimeng Liu (yimeng.liu@student.hs-anhalt.de)
+  - stynhouu: Yuanbin Hou (Yuanbin.hou@student.hs-anhalt.de)
+  - stynyann: Yuxuan Yan (yuxuan.yan@student.hs-anhalt.de)
+  - styoxuuu: yuntao xu (yuntao.xu@student.hs-anhalt.de)
+  - styoyang: yongsheng yang (yongsheng.yang@student.hs-anhalt.de)
+  - styqhann: Yuqi Han (yuqi.han@student.hs-anhalt.de)
+  - styqliu2: Yuquan Liu (yuquan.liu@student.hs-anhalt.de)
+  - styuchun: yulong chunyu (yulong.chunyu@student.hs-anhalt.de)
+  - styuzh12: Yang Zhang (yang.zhang@student.hs-anhalt.de)
+  - styyfuuu: Yu Fu (yu.fu@student.hs-anhalt.de)
+  - stzhyunh: Yunhao Zhong (yurekingdarkcry@gmail.com)
+  - stzhyuuu: Zhipeng Yu (zhipeng.Yu@student.hs-anhalt.de)
+  - stziwuuu: zijin wu (zijin.wu@student.hs-anhalt.de)
+  - stzzsong: Zhaorui Song (zhaorui.song@student.hs-anhalt.de)
+  - svoigt: Stephan Voigt (Stephan.Voigt@hs-anhalt.de)
+  - tempelhagen_r: Tempelhagen, Robin
+  - tietze_c: Tietze, Carsten
+  - trendelenburg_a: Trendelenburg, Axel
+  - vanlaak_j: van Laak, Jens
+  - vasylenko_o: Oksana Vasylenko
+  - vboiko: Vadym Boiko (boiko.vadym97@gmail.com)
+  - vdehtiarov: Vladyslav Dehtiarov (vladyslav.dehtiarov@student.hs-anhalt.de)
+  - vhein: Volker Hein (volker.hein@student.hs-anhalt.de)
+  - vlivadidis: Viktor Livadidis (viktor.livadidis@gmail.com)
+  - voelker_a: Antje Völker
+  - voggenreiter_d: Voggenreiter, Dominik
+  - vshkliar: Valeryia Shkliar (valeryia.shkliar@student.hs-anhalt.de)
+  - warnecke_j: Warnecke, Jork
+  - werner_j: Werner, Jörg
+  - wetzel_g: Wetzel, Gloria
+  - wichmann_t: Wichmann, Tolga
+  - wintergoller_d: Wintergoller, Dmitrij
+  - wittmann_c: Claus Wittmann
+  - wuestenhagen_s: Sven Wüstenhagen
+  - xu_ka: Xu, Kangyi
+  - ybatsula: Yevhen Batsula (yevhen.batsula@student.hs-anhalt.de)
+  - ykhalil: Yermek Khalil (yermek.khalil@student.hs-anhalt.de)
+  - yyang: Yuang Yang (yuang.yang@student.hs-anhalt.de)
+  - yzx789: Yao Zhexi (yao.zhexi@student.hs-anhalt.de)
+  - zeckzer_a: Dr. Zeckzer, Andre
+  - zender_r: Zender, Raphael
+  - zieseniss_b: Zieseniss, Brian Gabriel
